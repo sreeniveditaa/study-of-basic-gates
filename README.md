@@ -99,5 +99,6 @@ endmodule
 <img width="960" alt="exp1(d)" src="https://github.com/sreeniveditaa/study-of-basic-gates/assets/147473268/83da6140-9396-469f-8901-417058c45c96">
 
 **Result:**
+
 Thus the different digital IC's are studied and the truth table for different logic gates are verified
 
