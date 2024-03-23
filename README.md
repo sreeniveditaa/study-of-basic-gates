@@ -86,7 +86,7 @@ endmodule
  
 **Logic symbol & Truthtable**
 
-<img width="960" alt="exp1(d)" src="https://github.com/sreeniveditaa/study-of-basic-gates/assets/147473268/43e25a73-4071-418b-982b-a4afec253f3e">
+![image](https://github.com/KAVIYADHARANI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870680/1b9747b9-ecc4-4aea-a7f1-334db58c428c)
 
 
 **RTL realization Output:** 
