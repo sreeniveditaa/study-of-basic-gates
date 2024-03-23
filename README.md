@@ -85,14 +85,17 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
 <img width="960" alt="exp1(d)" src="https://github.com/sreeniveditaa/study-of-basic-gates/assets/147473268/43e25a73-4071-418b-982b-a4afec253f3e">
 
 
 **RTL realization Output:** 
+
 <img width="960" alt="exp1(w)" src="https://github.com/sreeniveditaa/study-of-basic-gates/assets/147473268/27f3476a-24a4-4c4d-9093-a1eee100ebb0">
 
 
 **RTL**
+
 <img width="960" alt="exp1(d)" src="https://github.com/sreeniveditaa/study-of-basic-gates/assets/147473268/83da6140-9396-469f-8901-417058c45c96">
 
 **Result:**
